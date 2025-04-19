@@ -20,7 +20,9 @@
 
 ## Пример вывода
 
-Its a factorial program! Enter a number to calculate its factorial: 5 You entered: 5! 5 * 4 * 3 * 2 * 1 = 120
+Its a factorial program! 
+Enter a number to calculate its factorial: 5 
+You entered: 5! 5 * 4 * 3 * 2 * 1 = 120
 
 ## Требования
 
