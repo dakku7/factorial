@@ -10,8 +10,7 @@ int factorial(int n) {
 		std::cout << "Zero cannot be!\n";
 		return 0;
 	}
-	std::cout << n << " * "; // Выводим текущий множитель
-
+	std::cout << n << " * "; 
 	return n * factorial(n - 1);
 }
 
